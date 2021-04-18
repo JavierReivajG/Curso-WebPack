@@ -1,0 +1,22 @@
+{
+  "name": "curso-webpack-platzi",
+  "version": "1.0.0",
+  "description": "Un curso basico de web pack donde aprendemos que es y como funciona",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "git",
+    "webpack",
+    "html",
+    "css",
+    "javascrip"
+  ],
+  "author": "Javier Alejandro Flores Gomez jafg84alejandro@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack-cli": "^4.6.0"
+  }
+}
